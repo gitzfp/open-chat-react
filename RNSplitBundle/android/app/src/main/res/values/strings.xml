@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RNSplitBundle</string>
+    <string name="CodePushDeploymentKey">YOUR_ANDROID_DEPLOYMENT_KEY</string>
+</resources>
