@@ -1,3 +1,7 @@
+tLxs8BRD99mTf7V6y3XnciLzBMATXcpMyT9YCP0zzwbGU76t#7WKPXAuYh36ef2vigYrUd9eYu01uIceUVzkBjdyGQNI
+
+
+
 # Vite + React + Typescript + Antd
 
 一个使用`vite2.x`搭建的`react17.x`项目，支持`TypeScript4.x`、`Antd4.x`，以及`eslint`/`prettier`/`stylelint`/`commitlint`等工程化管理~
